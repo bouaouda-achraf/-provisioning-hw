@@ -6,6 +6,8 @@ import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
 import javax.persistence.Id;
 
+import com.fasterxml.jackson.annotation.JsonValue;
+
 import lombok.Data;
 
 @Entity
@@ -23,12 +25,20 @@ public class Device {
     @Column(name = "override_fragment")
     private String overrideFragment;
 
+    @Column(name = "username")
     private String username;
 
+    @Column(name = "password")
     private String password;
 
     public enum DeviceModel {
         CONFERENCE,
         DESK
+    }
+    
+    @Override
+    @JsonValue
+    public String toString() {
+        return username + " = " + password;
     }
 }
