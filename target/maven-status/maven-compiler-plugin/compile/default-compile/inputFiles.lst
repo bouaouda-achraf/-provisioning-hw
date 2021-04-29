@@ -1,0 +1,14 @@
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\service\IProvisioningService.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\controller\ProvisioningController.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\writer\DeviceObjectWriterFactory.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\writer\DeviceDeskPrinter.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\util\DeviceConstants.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\reader\DeviceReaderLineSpliterFactory.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\repository\DeviceRepository.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\entity\Device.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\config\ConfigDeviceProperties.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\writer\DeviceConferencePrinter.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\ProvisioningApplication.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\reader\DeviceReaderOverrideFragmentFactory.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\service\impl\ProvisioningServiceImpl.java
+D:\ENV_DEV\angular_ws\voxloud\provisioning-hw\src\main\java\com\voxloud\provisioning\writer\UnQuotesSerializer.java
